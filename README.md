@@ -3,7 +3,7 @@ A simulation of Twitter’s platform that allows users to post contents on feeds
 • Allowed registered user post, like and follow other users, but unregistered users can only read posts. \
 • Developed backend application in Python Django to handle HTTP requests and responses. \
 • Used SQLite as database to store user's profile and posts. \
-• Designed web pages using Bootstrap CDN framework to enable access across different browsers and platforms. \
+• Designed web pages using Bootstrap CDN framework to enable access across different browsers and platforms. 
 
 ## Demo
 home page
