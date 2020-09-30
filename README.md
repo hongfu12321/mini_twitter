@@ -1,3 +1,14 @@
+## Mini Twitter
+A simulation of Twitter’s platform that allows users to post contents on feeds and interact with others using built-in features.
+• Allowed registered user post, like and follow other users, but unregistered users can only read posts.
+• Developed backend application in Python Django to handle HTTP requests and responses.
+• Used SQLite as database to store user's profile and posts.
+• Designed web pages using Bootstrap CDN framework to enable access across different browsers and platforms.
+
+## Demo
+home page
+![](img/home.png)
+
 ## Setup
 
 1. Git Clone the project with: ```git clone https://github.com/hongfu12321/mini_twitter```.
